@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
+	<path class="cyan shining" d="m 55,16 -47,81 9,16 94,0 9,-16 -47,-81 -9,0 z"/>
+	<path class="cyan darkened" d="m 54.9,45.1 1.5,7.1 -26.4,38.6 0,11.2 1,1 29.5,-30.6 2.4,10.8 15.9,-36.1 z m 18.8,30.5 0,2 9.3,7.6 10.5,-0.8 z M 97,85.7 47.6,89.4 34.2,103.3 97,93.9 z"/>
+</svg>

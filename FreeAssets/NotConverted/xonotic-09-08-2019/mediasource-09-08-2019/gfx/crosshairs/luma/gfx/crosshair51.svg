@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96" height="96">
+	<g fill="#fff" filter="url(common.filters#shadow)">
+		<rect x="45" y="9" width="6" height="27"/>
+		<rect x="60" y="45" width="27" height="6"/>
+		<rect x="45" y="60" width="6" height="27"/>
+		<rect x="9" y="45" width="27" height="6"/>
+	</g>
+</svg>

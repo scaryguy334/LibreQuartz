@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96" height="96">
+	<defs>
+		<clipPath id="clip-outer">
+			<path d="M 16,0 40,32 56,32 80,0 Z"/>
+			<path d="M 16,0 40,32 56,32 80,0 Z" transform="matrix(-0.5,0.866,-0.866,-0.5,113.57,30.43)"/>
+			<path d="M 16,0 40,32 56,32 80,0 Z" transform="matrix(-0.5,-0.866,0.866,-0.5,30.43,113.57)"/>
+		</clipPath>
+		<clipPath id="clip-inner">
+			<path d="M 48,52.6 -27,96 123,96 z"/>
+			<path d="M 48,52.6 -27,96 123,96 z" transform="matrix(-0.5,0.866,-0.866,-0.5,113.57,30.43)"/>
+			<path d="M 48,52.6 -27,96 123,96 z" transform="matrix(-0.5,-0.866,0.866,-0.5,30.43,113.57)"/>
+		</clipPath>
+	</defs>
+	<g fill="none" stroke="#fff" filter="url(common.filters#shadow)">
+		<circle clip-path="url(#clip-outer)" stroke-width="6" cx="48" cy="48" r="34"/>
+		<circle clip-path="url(#clip-inner)" stroke-width="3" cx="48" cy="48" r="12.5" opacity="0.6"/>
+	</g>
+</svg>

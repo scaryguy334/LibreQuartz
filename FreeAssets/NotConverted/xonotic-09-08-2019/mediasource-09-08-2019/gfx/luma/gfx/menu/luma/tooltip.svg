@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common_c.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256">
+	<path class="dialog" d="m 21,14 -6,9 0,210 6,9 214,0 6,-9 0,-210 -6,-9 z"/>
+	<g class="glowing">
+		<path class="frame" d="M 20,12 8,22 c -1.8,1.5 -1.5,2.5 0,4.5 l 6,8 0,187 -6,8 c -1.5,2 -1.8,3 0,4.5 l 12,10 216,0 12,-10 c 1.8,-1.5 1.5,-2.5 0,-4.5 l -6,-8 0,-187 6,-8 c 1.5,-2 1.8,-3 0,-4.5 L 236,12 z m 2,4 212,0 6,8 0,208 -6,8 -212,0 -6,-8 0,-208 z"/>
+		<path class="detail" d="m 8,29.5 0,197 4,-5 L 12,35 z m 240,0 -4,5 0,187 4,5 z"/>
+	</g>
+</svg>

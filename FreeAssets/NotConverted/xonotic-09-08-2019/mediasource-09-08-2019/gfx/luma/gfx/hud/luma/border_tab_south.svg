@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
+	<g class="blurred">
+		<path class="border_plain" d="m 100,32 -72,0 -11,5 -17,57 23,0 4,2 74,0 4,-2 23,0 -17,-57 z"/>
+	</g>
+</svg>

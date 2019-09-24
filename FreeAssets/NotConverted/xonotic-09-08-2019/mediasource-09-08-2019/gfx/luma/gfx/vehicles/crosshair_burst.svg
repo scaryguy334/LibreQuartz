@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96" height="96">
+	<g filter="url(common.filters#shadow)">
+		<g fill="#fff">
+			<rect x="47" y="24" width="2" height="17"/>
+			<rect x="55" y="47" width="17" height="2"/>
+			<rect x="47" y="55" width="2" height="17"/>
+			<rect x="24" y="47" width="17" height="2"/>
+		</g>
+		<g opacity="0.4" fill="none" stroke="#fff" stroke-width="3">
+			<path d="M 71,41 C 70.5,33 63,25.5 55,25"/>
+			<path d="M 25,41 C 25.5,33 33,25.5 41,25"/>
+			<path d="m 25,55 c 0.5,8 8,15.5 16,16"/>
+			<path d="M 71,55 C 70.5,63 63,70.5 55,71"/>
+		</g>
+	</g>
+</svg>

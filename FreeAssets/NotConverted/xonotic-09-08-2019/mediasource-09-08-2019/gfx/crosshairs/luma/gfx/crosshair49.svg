@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96" height="96">
+	<g fill="#fff" filter="url(common.filters#shadow)">
+		<rect x="45" y="9" width="6" height="27"/>
+		<rect x="45" y="7" width="6" height="29" transform="matrix(-0.5,0.866,-0.866,-0.5,113.57,30.43)"/>
+		<rect x="45" y="7" width="6" height="29" transform="matrix(-0.5,-0.866,0.866,-0.5,30.43,113.57)"/>
+	</g>
+</svg>

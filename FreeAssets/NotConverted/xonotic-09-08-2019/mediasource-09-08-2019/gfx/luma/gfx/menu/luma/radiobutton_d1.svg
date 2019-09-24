@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common_d.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="48" height="48">
+	<path class="radiobutton" d="m 18,7 -13.5,23.5 6,10.5 27,0 6,-10.5 L 30,7 z"/>
+	<path class="frame glowing" d="M 16.5,5 2,30.5 9,43 39,43 46,30.5 31.5,5 z m 2,3 11,0 L 42.4,30.5 37,40 11,40 5.6,30.5 z"/>
+	<path class="mark blurred" d="M 21,13 11,30.5 13.5,35 34.5,35 37,30.5 27,13 z"/>
+</svg>

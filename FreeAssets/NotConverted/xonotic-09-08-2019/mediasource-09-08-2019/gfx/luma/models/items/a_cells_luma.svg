@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1">
+	<g class="cells shining">
+		<path d="m 116,48 -84,84 0,24 12,0 16,14 6,-6 -14,-14 0,-12 70,-70 12,0 50,50 6,-6 -20,-20 0,-14 -30,-30 z m 80,70 -6,6 14,14 0,12 -70,70 -12,0 -50,-50 -6,6 20,20 0,14 30,30 24,0 84,-84 0,-24 -12,0 z"/>
+		<path d="m 118,102 -34,59 49,-10 -17,41 54,-66 -51,11 24,-35 -25,0 z"/>
+	</g>
+</svg>

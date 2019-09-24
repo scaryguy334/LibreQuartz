@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="96" width="96" version="1.1">
+	<g fill="none" stroke="#fff" filter="url(common.filters#shadow)">
+		<path id="segment" stroke-width="5" d="m29 23 5-9h28l5 9"/>
+		<use xlink:href="#segment" transform="matrix(-.5 .866 -.866 -.5 113.57 30.43)"/>
+		<use xlink:href="#segment" transform="matrix(-.5 -.866 .866 -.5 30.43 113.57)"/>
+		<path stroke-width="2" opacity="0.5" d="m45.3522 34-10.6235 18.4035 2.6478 4.58473h21.247l2.6478-4.58473-10.6235-18.4035h-5.2956z"/>
+	</g>
+</svg>

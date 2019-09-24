@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" version="1.1">
+	<defs>
+		<linearGradient id="g">
+			<stop stop-color="#ffffff" offset="0"/>
+			<stop stop-color="#ffffff" stop-opacity="0" offset="1"/>
+		</linearGradient>
+		<linearGradient xlink:href="#g" id="gback" x1="0" x2="34" y1="128" y2="58" gradientUnits="userSpaceOnUse"/>
+		<linearGradient xlink:href="#g" id="gfore" x1="30" x2="50" y1="114" y2="66" gradientUnits="userSpaceOnUse"/>
+	</defs>
+	<path fill="url(#gback)" opacity="0.40" d="M 8 0 L 0 8 L 0 107 L 14 107 C 22 107 28 112 31.5 119 L 36 128 L 120 128 L 128 120 L 128 8 L 120 0 L 8 0 z "/>
+	<path fill="url(#gfore)" opacity="0.55" d="M 26,34 0,64.171875 0,82.74023438 42,34 Z M 58,34 0,101.3085938 0,107 11.09570312,107 74,34 Z m 32,0 -65.72070312,76.2695312 C 27.28827649,112.4004454 29.71934904,115.4386981 31.5,119 l 0.4609375,0.921875 L 106,34 Z m 32,0 -81,94 16,0 L 128,45.60546875 128,34 Z M 128,64.171875 73,128 l 16,0 39,-45.25976562 z m 0,37.1367188 L 105,128 l 16,0 7,-8 z"/>
+	<g transform="matrix(0.5416666667,0,0,0.5416666667,-20.66666667,84.33333333)">
+		<path fill="#ffffff" opacity="0.85" d="M 64,49 C 52,49 44,57 40,64 44,71 52,79 64,79 76,79 84,71 88,64 84,57 76,49 64,49 Z m 0,3 A 12,12 0 0 1 76,64 12,12 0 0 1 64,76 12,12 0 0 1 52,64 12,12 0 0 1 64,52 Z m 0,4 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z"/>
+	</g>
+</svg>

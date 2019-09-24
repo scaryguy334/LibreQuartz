@@ -1,0 +1,24 @@
+/* Weapons */
+.arc             { fill:#7094e6 }
+.crylink         { fill:#d261e0 }
+.electro         { fill:#5e95e8 }
+.fireball        { fill:#db7147 }
+.grenadelauncher { fill:#f85e46 }
+.hagar           { fill:#db8247 }
+.hlac            { fill:#dc8742 }
+.hook            { fill:#6ce820 }
+.laser           { fill:#f35d68 }
+.minelayer       { fill:#f85e46 }
+.minstanex       { fill:#857bca }
+.nex             { fill:#50b1c5 }
+.porto           { fill:#5e95e8 }
+.rifle           { fill:#db8247 }
+.rocketlauncher  { fill:#c49f3c }
+.seeker          { fill:#f35d68 }
+.shockwave       { fill:#53b871 }
+.shotgun         { fill:#8397a3 }
+.tuba            { fill:#c49f3c }
+.uzi             { fill:#6ce820 }
+
+/* Filters */
+.shining { filter:url(common.filters#shining) }

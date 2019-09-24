@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96" height="96">
+	<g fill="#fff" filter="url(common.filters#shadow)">
+		<rect x="47" y="24" width="2" height="17"/>
+		<rect x="55" y="47" width="17" height="2"/>
+		<rect x="47" y="55" width="2" height="17"/>
+		<rect x="24" y="47" width="17" height="2"/>
+		<g opacity="0.4">
+			<path d="m 8,16 9,13 4,30 -3,0.5 L 13,31 4,19 Z"/>
+			<path d="M 88,16 79,29 75,59 78,59.5 83,31 92,19 Z"/>
+		</g>
+		<path opacity="0.2" d="m 25,20 0,2 13,0 0,-2 z m 33,0 0,2 13,0 0,-2 z m -31,8 0,2 11,0 0,-2 z m 31,0 0,2 11,0 0,-2 z m -30,8 0,2 10,0 0,-2 z m 30,0 0,2 10,0 0,-2 z"/>
+	</g>
+</svg>

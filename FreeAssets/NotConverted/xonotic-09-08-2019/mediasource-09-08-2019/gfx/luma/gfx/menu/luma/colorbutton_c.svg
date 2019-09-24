@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common_c.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="64" height="64">
+	<defs>
+		<clipPath id="glowclip" clipPathUnits="userSpaceOnUse">
+			<path d="M 23.1,8 40.9,8 59.7,40 50.8,56 13.2,56 4.3,40 z"/>
+		</clipPath>
+		<clipPath id="markclip" clipPathUnits="userSpaceOnUse">
+			<path d="M 0,0 0,64 64,64 64,0 0,0 z m 27.7,16 8.6,0 L 50.5,40.2 46.1,48 17.9,48 13.5,40.2 27.7,16 z"/>
+		</clipPath>
+		<filter id="glow">
+			<feGaussianBlur stdDeviation="8"/>
+		</filter>
+	</defs>
+	<g transform="matrix(1,0,0,0.8462,0,4.9231)">
+		<g class="blurred">
+			<g class="colorbutton" clip-path="url(#markclip)">
+				<path class="colorbutton_glow" filter="url(#glow)" clip-path="url(#glowclip)" d="m 0,0 0,64 64,0 0,-64 z m 25.4,12 13.2,0 16.5,28.1 -6.6,11.9 -32.9,0 -6.6,-11.9 z"/>
+				<path class="colorbutton_frame" d="M 49.7,54 57.4,40.1 39.7,10 24.3,10 6.6,40.1 14.3,54 z M 12,58 2,40 22,6 42,6 62,40 52,58 z"/>
+			</g>
+			<path class="colormark" d="m 27.7,16 8.6,0 14.2,24.2 L 46.1,48 17.9,48 13.5,40.2 z"/>
+		</g>
+	</g>
+</svg>

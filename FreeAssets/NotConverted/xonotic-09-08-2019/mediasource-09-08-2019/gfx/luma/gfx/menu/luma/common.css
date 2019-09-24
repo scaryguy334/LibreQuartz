@@ -1,0 +1,29 @@
+/* Backgrounds */
+.background  { fill:#000000; opacity:0.85 }
+.clearbutton { fill:#000000; opacity:0.3 }
+
+/* Components */
+.checkmark   { fill:#90abc4 }
+.colorpicker { fill:#ffffff }
+.gametype    { fill:#90abc4 }
+.mark        { fill:#f2fcff; opacity:0.9 }
+.nopreview   { fill:#37628a; opacity:0.75 }
+
+.colorbutton       { opacity:0.8; fill:#ffffff }
+.colorbutton_frame { opacity:1 }
+.colorbutton_glow  { opacity:0.55 }
+
+/* Icons */
+.aes   { fill:#e2d138 }
+.mod   { fill:#5ba4e1 }
+.pure  { fill:#c1511f }
+.stats { fill:#81ce36 }
+.ipv4  { fill:#d24406 }
+.ipv6  { fill:#d00000 }
+
+/* Filters */
+.blurred  { filter:url(common.filters#blurred) }
+.glowing  { filter:url(common.filters#glowing) }
+.grayed   { filter:url(common.filters#grayed) }
+.shadowed { filter:url(common.filters#shadowed) }
+.shining  { filter:url(common.filters#shining) }

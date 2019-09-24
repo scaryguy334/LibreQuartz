@@ -1,0 +1,13 @@
+@import "common.css";
+
+/* Backgrounds */
+.button      { opacity:0.85; fill:#125086 }
+.checkbox    { opacity:0.85; fill:url(common_n.gradients#checkbox) }
+.dialog      { opacity:0.90; fill:url(common_n.gradients#dialog) }
+.header      { opacity:0.90; fill:url(common_n.gradients#header) }
+.inputbox    { opacity:0.85; fill:url(common_n.gradients#inputbox) }
+.radiobutton { opacity:0.85; fill:url(common_n.gradients#radiobutton) }
+
+/* Components */
+.detail { fill:#c6e8f8 }
+.frame  { fill:#99c4e5 }

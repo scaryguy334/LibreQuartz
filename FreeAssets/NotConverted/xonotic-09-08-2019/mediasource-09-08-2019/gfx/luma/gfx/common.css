@@ -1,0 +1,4 @@
+.net   { fill:#8aa9c6 }
+.netbg { fill:#00325c; opacity:0.8 }
+
+.shining { filter:url(common.filters#shining) }

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="768" height="256">
+	<g filter="url(common.filters#blurred)">
+		<path fill="#1f1f1f" opacity="0.72" d="m 264,128 60,-104 120,0 60,104 -60,104 -120,0 z"/>
+		<g fill="#272727" opacity="0.7">
+			<path d="m 31,123 3,2 223,0 48,-83 -253,11 -39,68 0,2 z"/>
+			<path d="m 31,133 3,-2 223,0 48,83 -253,-11 -39,-68 0,-2 z"/>
+			<path d="m 755,121 0,2 -18,0 -3,2 -223,0 -48,-83 253,11 z"/>
+			<path d="m 755,133 -18,0 -3,-2 -223,0 -48,83 253,-11 39,-68 z"/>
+		</g>
+	</g>
+</svg>

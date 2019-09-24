@@ -1,0 +1,82 @@
+/* Vitals */
+.armor  { fill:#81f13d }
+.health { fill:#fd705b }
+
+/* Colors (WIP) */
+.neutral        { fill:#89aac3 }
+.red            { fill:#fd705b }
+.redorange      { fill:#f0875e }
+.orange         { fill:#e39160 }
+.yellow         { fill:#e9be57 }
+.yellowgreen    { fill:#95b84c }
+.green          { fill:#81f13d }
+.greencyan      { fill:#77b38a }
+.cyan           { fill:#75c3d5 }
+.blue           { fill:#6899f2 }
+.violet         { fill:#978ed2 }
+.violetmagenta  { fill:#c17fe5 }
+.magenta        { fill:#ea6ff9 }
+.magentascarlet { fill:#e57da7 }
+.scarlet        { fill:#f7717b }
+
+/* Ammo */
+.bullets    { fill:#adf085 }
+.cells      { fill:#8be1f7 }
+.fuel       { fill:#fbe081 }
+.nades      { fill:#96bea3 }
+.plasma     { fill:#eda3f1 }
+.rockets    { fill:#eaaf86 }
+.shells     { fill:#9aa5ab }
+.supercells { fill:#d0f08a }
+
+/* Weapons */
+.arc             { fill:#7c9ceb }
+.crylink         { fill:#ea6ff9 }
+.electro         { fill:#6899f2 }
+.fireball        { fill:#f0855f }
+.grenadelauncher { fill:#fd7865 }
+.hagar           { fill:#e39160 }
+.hlac            { fill:#e5965b }
+.hmg             { fill:#fd7865 }
+.hook            { fill:#81f13d }
+.laser           { fill:#f7717b }
+.minelayer       { fill:#fd7865 }
+.minstanex       { fill:#978ed2 }
+.nex             { fill:#75c3d5 }
+.porto           { fill:#6899f2 }
+.rifle           { fill:#e39160 }
+.rocketlauncher  { fill:#e9be57 }
+.rpc             { fill:#e9be57 }
+.seeker          { fill:#f7717b }
+.shotgun         { fill:#849ba8 }
+.shockwave       { fill:#77b38a }
+.tuba            { fill:#e9be57 }
+.uzi             { fill:#81f13d }
+
+/* Misc */
+.progressbar { fill:#ffffff }
+.vehicle     { fill:#efefef; opacity:0.75 }
+.waypoint    { fill:#ffffff }
+
+/* Backgrounds */
+.shadow             { fill:#000000; opacity:0.6 }
+.border_corner      { fill:url(common.gradients#border_corner) }
+.border_default     { fill:url(common.gradients#border_default) }
+.border_fading      { fill:url(common.gradients#border_fading) }
+.border_plain       { fill:#2f2f2f; opacity:0.7 }
+.border_shadow      { fill:url(common.gradients#border_shadow) }
+.border_shadow_mask { fill:url(common.gradients#border_shadow_mask) }
+
+/* Selectors */
+.current_bg            { fill:url(common.gradients#weapon_current_bg) }
+.current_frame         { fill:#ffffff }
+.weapon_accuracy       { fill:#ffffff; opacity:0.3 }
+.weapon_ammo           { fill:url(common.gradients#weapon_ammo) }
+.weapon_complainbubble { fill:#ffffff; opacity:0.6 }
+
+/* Filters */
+.blurred  { filter:url(common.filters#blurred) }
+.darkened { filter:url(common.filters#darkened) }
+.glowing  { filter:url(common.filters#glowing) }
+.outlined { filter:url(common.filters#outlined) }
+.shining  { filter:url(common.filters#shining) }

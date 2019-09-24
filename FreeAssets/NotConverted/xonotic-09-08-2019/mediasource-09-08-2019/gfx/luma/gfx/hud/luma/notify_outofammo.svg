@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
+	<path class="neutral shining" d="m 80,28 -36,72 12,0 36,-72 z m -56,12 0,14 -10,0 0,20 10,0 0,14 18,0 5,-10 -13,0 0,-28 27,0 5,-10 z m 70,0 -5,10 13,0 0,28 -27,0 -5,10 42,0 0,-48 z"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common_f.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="64" height="64">
+	<defs>
+		<clipPath id="clip">
+			<path d="m 23,16 -16.5,26.5 0,2 15.5,19.5 20,0 15.5,-19.5 0,-2 L 41,16 z"/>
+		</clipPath>
+	</defs>
+	<g class="glowing" clip-path="url(#clip)">
+		<path class="detail" d="M 27,16 12,40 15,41.5 28,24 36,24 49,41.5 52,40 37,16 z"/>
+		<path class="frame" d="M 29,26 15.5,44 11,41.5 l 0,4.5 5,5 c 16,-6 16,-6 32,0 L 53,46 53,41.5 48.5,44 35,26 z"/>
+	</g>
+</svg>

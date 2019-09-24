@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="112" width="112" version="1.1">
+	<g filter="url(common.filters#shadow)">
+		<g fill="#fff">
+			<path d="m44 51v-8h-7l-6 6h-22v2z"/>
+			<path d="m44 61v8h-7l-6-6h-22v-2z"/>
+			<path d="m68 51v-8h7l6 6h22v2z"/>
+			<path d="m68 61v8h7l6-6h22v-2z"/>
+		</g>
+		<g opacity=".5" fill="#fff">
+			<rect y="64" x="54" width="4" height="19"/>
+			<rect y="29" x="54" width="4" height="19"/>
+		</g>
+		<g opacity=".75" stroke="#fff" stroke-width="2.5" fill="none">
+			<path d="m49 25.5h-30l-13 13.5"/>
+			<path d="m63 25.5h30l13 13.5"/>
+			<path d="m49 86.5h-30l-13-13.5"/>
+			<path d="m63 86.5h30l13-13.5"/>
+		</g>
+	</g>
+</svg>

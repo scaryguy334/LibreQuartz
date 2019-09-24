@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
+	<path class="rocketlauncher shining" d="m 92,16 -8,6 22,22 6,-8 0,-8 -12,-12 z M 82,24 55,48 57,55 86,28 z M 88,30 58.5,60.21875 54,57 30,81 l -3,7 4,4 21,-18 2,2 -18,21 4,4 7,-3 L 71,74 67.78125,69.5 98,40 z m 12,12 -27,29 7,2 24,-27 z m -58,23 -17,4 -11,14 11,0 3,-4 z m 21,21 -14,14 -4,3 0,11 14,-11 z m -32.5,7.5 -4.5,6.5 2,2 6.5,-4.5 z"/>
+</svg>

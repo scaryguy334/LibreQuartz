@@ -1,0 +1,5 @@
+.key { fill:#8aa9c6 }
+.team { fill:#90b0a1 }
+
+.darkened { filter:url(common.filters#darkened) }
+.shining  { filter:url(common.filters#shining) }

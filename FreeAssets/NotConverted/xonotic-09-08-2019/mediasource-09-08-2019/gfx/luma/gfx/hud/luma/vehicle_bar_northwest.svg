@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="128">
+	<path fill="#fff" filter="url(common.filters#blurred)" d="M 251.7,54.9 218.1,113 0,113 27.1,64.7 Z"/>
+</svg>

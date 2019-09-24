@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="96" height="96">
+	<defs>
+		<clipPath id="clip">
+			<rect x="0" y="0" width="39" height="39"/>
+			<rect x="57" y="0" width="39" height="39"/>
+			<rect x="57" y="57" width="39" height="39"/>
+			<rect x="0" y="57" width="39" height="39"/>
+		</clipPath>
+	</defs>
+	<g filter="url(common.filters#shadow)">
+		<circle fill="none" stroke="#fff" stroke-width="6" clip-path="url(#clip)" cx="48" cy="48" r="34"/>
+	</g>
+</svg>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="common.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
+	<path class="nex shining" d="M 20,112 79,68 75,83 94,57 92,81 C 105,57 110,30 104,24 98,18 71,23 47,36 L 71,34 45,53 60,49 16,108 z M 88,29 c 2.5,-3 12,-3 13,-2 1,1 1,10.5 -2,13 L 30,98 z"/>
+</svg>

@@ -1,0 +1,31 @@
+/* Vitals */
+.armor       { fill:#72de1a }
+.health      { fill:#e74727 }
+.health_dark { fill:#c84a2c }
+
+/* Ammo */
+.bullets { fill:#86c064 }
+.cells   { fill:#78c2d4 }
+.fuel    { fill:#f8d760 }
+.plasma  { fill:#e38ded }
+.rockets { fill:#d79064 }
+.shells  { fill:#929fa8 }
+
+/* Powerups */
+.detonator    { fill:#db8247 }
+.invisibility { fill:#5e95e8 }
+.fuelregen    { fill:#c4a93c }
+.resurrection { fill:#f35d68 }
+.shield       { fill:#6ce820 }
+.speed        { fill:#50b1c5 }
+.strength     { fill:#db8247 }
+.superweapons { fill:#c49f3c }
+.ultrahealing { fill:#f85e46 }
+.xray         { fill:#857bca }
+
+/* Jetpack */
+.jetpack { fill:#c4a93c }
+
+/* Filters */
+.shining  { filter:url(common.filters#shining) }
+.darkened { filter:url(common.filters#darkened) }
