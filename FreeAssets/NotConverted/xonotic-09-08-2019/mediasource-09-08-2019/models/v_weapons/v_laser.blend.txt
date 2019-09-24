@@ -1,0 +1,1 @@
+NOTE: this one got scaled down by about 20% in the .md3 file, keeping the shot origin intact. Please apply this to the .blend and remove this text file.
