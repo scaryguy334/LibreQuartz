@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="team shining" d="M 111.3,109 116,100.9 68.7,20 59.3,20 12,100.9 16.7,109 z"/>
-	<path class="team darkened" d="m 56,48 0,31 16,0 0,-31 -16,0 z m 0,40 0,11 16,0 0,-11 -16,0 z"/>
-</svg>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="56" height="56">
-	<g fill="#fff" filter="url(common.filters#shadow)">
-		<path d="M 22,20.5 20.5,22 34,35.5 35.5,34 z"/>
-		<path d="M 34,20.5 35.5,22 22,35.5 20.5,34 z"/>
-	</g>
-</svg>

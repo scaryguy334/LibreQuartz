@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common_neutral.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<g class="teamcolor shining">
-		<path d="m 30,82 -8,3 -10,11 52,20 52,-20 -10,-11 -8,-3 5,7 -39,11 -39,-11 z"/>
-		<path d="m 84,60 a 20,20 0 1 1 -40,0 20,20 0 1 1 40,0 z"/>
-	</g>
-</svg>

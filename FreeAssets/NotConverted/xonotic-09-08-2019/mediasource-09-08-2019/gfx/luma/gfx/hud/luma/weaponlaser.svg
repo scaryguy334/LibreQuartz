@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="laser shining" d="M 92,85 C 58,102 26,74 54,49 32,55 20,78 34,92 47,105 77,104 92,85 z M 36,43 C 70,26 102,54 74,79 96,73 108,50 94,36 81,23 51,24 36,43 z"/>
-</svg>

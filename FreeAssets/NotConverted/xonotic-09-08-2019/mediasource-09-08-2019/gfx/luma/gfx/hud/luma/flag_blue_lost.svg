@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common_blue.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<g class="teamcolor shining">
-		<path d="m 59.6,43.5 c 1.3,5.6 5.5,10 10.5,14.3 L 42.6,73 81.8,57.8 c 12.9,6.5 20.4,15 22.7,23.8 l -50.9,21.8 c 0,-10 -8.1,-25.5 -13.2,-28.4 -3.6,-2.1 -4.7,2.3 -3.7,8 0.9,-10.8 7.5,-1.6 8.2,3.3 C 33.1,90.9 17.8,68.8 19.5,60.6 Z m 48.5,39.6 2.2,2.9 -64.2,30 -3.8,-4.7 z"/>
-		<path d="M 74,42 50,18 98,18 Z"/>
-	</g>
-</svg>

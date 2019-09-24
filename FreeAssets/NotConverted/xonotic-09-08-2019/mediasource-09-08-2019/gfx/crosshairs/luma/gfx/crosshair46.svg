@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="64" height="64">
-	<g fill="#fff" filter="url(common.filters#shadow)">
-		<path d="M 27.5,26 13,11.5 11.5,13 26,27.5 z"/>
-		<path d="M 36.5,26 51,11.5 52.5,13 38,27.5 z"/>
-		<path d="M 36.5,38 51,52.5 52.5,51 38,36.5 z"/>
-		<path d="M 27.5,38 13,52.5 11.5,51 26,36.5 z"/>
-	</g>
-</svg>

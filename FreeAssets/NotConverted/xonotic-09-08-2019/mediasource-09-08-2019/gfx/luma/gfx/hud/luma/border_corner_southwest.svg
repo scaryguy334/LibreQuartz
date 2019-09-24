@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<g class="blurred">
-		<g transform="matrix(-1,0,0,1,128,0)">
-			<path class="border_corner" d="m 30,-4 -36,24 0,112 140,0 0,-136 z"/>
-		</g>
-	</g>
-</svg>

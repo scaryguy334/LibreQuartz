@@ -1,8 +1,0 @@
-.background  { fill:#9f9f9f }
-.tableheader { fill:#cfcfcf }
-
-.shadow { fill:#000000 } 
-.symbol { fill:#ffffff }
-
-.strongblurred { filter:url(common.filters#strongblurred) }
-.weakblurred   { filter:url(common.filters#weakblurred) }

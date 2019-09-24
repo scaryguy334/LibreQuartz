@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="neutral shining" d="m 29.5,16 c -4,0 -6.8,3 -7,7 l -2,51 c -0.2,4 3,7 7,7 l 73,0 c 4,0 7.2,-3 7,-7 l -2,-51 c -0.2,-4 -3,-7 -7,-7 z M 20,22 12.5,41.5 8,103 c 0,5 4,9 9,9 l 94,0 c 5,0 9,-4 9,-9 L 115.5,41.5 108,22 l 2.5,58 6,27.5 -7.5,-20 C 108.1,85 106.5,84 104,84 l -80,0 c -2.5,0 -4.1,1 -5,3.5 l -7.5,20 6,-27.5 z"/>
-	<path class="neutral darkened" d="m 37,48 11,-10 0,26 8,0 0,-26 11,10 0,-9 L 52,24 37,39 z"/>
-</svg>

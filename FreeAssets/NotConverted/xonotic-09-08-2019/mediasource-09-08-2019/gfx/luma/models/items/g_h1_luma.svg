@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" version="1.1">
-	<g class="health shining">
-		<path d="m 118,157 -4.5,21 5.5,9 18,0 5.5,-9 -4.5,-21 z m -10,27.5 -24,5.5 0,20 24,5.5 7,-6.5 26,0 7,6.5 24,-5.5 0,-20 -24,-5.5 -7,6.5 -26,0 z m 11,28.5 -5.5,9 4.5,21 20,0 4.5,-21 -5.5,-9 z"/>
-	</g>
-</svg>

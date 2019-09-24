@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32">
-	<path class="aes shadowed" d="M 16,2.5 4,8.5 4,13 c 0,8 6,14 12,17 6,-3 12,-9 12,-17 l 0,-4.5 -12,-6 z m 0,2.8125 9.5,4.6875 0,3 c 0,7 -5,11.4875 -9.5,14.1875 C 11.5,24.4875 6.5,20 6.5,13 L 6.5,10 16,5.3125 Z M 16,7 8,11 8,13 c 0,6 4.5,10.5 8,12.5 3.5,-2 8,-6.5 8,-12.5 l 0,-2 -8,-4 z"/>
-</svg>

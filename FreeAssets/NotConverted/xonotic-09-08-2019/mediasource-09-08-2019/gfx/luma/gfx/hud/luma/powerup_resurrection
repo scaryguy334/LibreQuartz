@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="scarlet shining" d="m 55,16 -47,81 9,16 94,0 9,-16 -47,-81 -9,0 z"/>
-	<path class="scarlet darkened" d="m 64,49 c -6.8,0 -13,2.6 -17.6,6.8 L 51.2,62.4 C 54.5,59.1 59,57 64,57 c 9.9,0 18,8.1 18,18 l -7,0 11,15 11,-15 -7,0 C 90,60.6 78.4,49 64,49 z m -22,11 -11,15 7,0 c 0,14.4 11.6,26 26,26 6.8,0 13,-2.6 17.6,-6.8 L 76.8,87.6 C 73.5,90.9 69,93 64,93 54.1,93 46,84.9 46,75 l 7,0 -11,-15 z"/>
-</svg>

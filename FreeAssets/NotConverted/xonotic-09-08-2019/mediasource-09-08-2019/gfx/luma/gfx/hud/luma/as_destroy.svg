@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="waypoint outlined" d="M 72,10 57,42 28,20 40,58 67,54 74,61 69,94 97,117 85,82 116,78 89,62 112,34 77,46 Z m -6,52 -45,7 12,12 -19,19 14,14 19,-19 12,12 z"/>
-</svg>

@@ -1,8 +1,0 @@
-@import "common_n.css";
-
-svg { opacity:0.6 }
-
-/* Seekables */
-.scrolltrack { opacity:0.60; fill:url(common_n.gradients#scrolltrack) }
-.slidetrack  { opacity:0.70; fill:url(common_n.gradients#slidetrack) }
-.seektrim    { opacity:0.15 }

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common_n.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="128" height="128">
-	<g class="glowing">
-		<path class="frame" d="M 32,16 32,70.2 42.8,64.8 61.2,82.7 67.7,79.4 64.5,54 75.3,48.6 z"/>
-		<path class="detail" d="M 76.9,50.4 67.2,55.3 70,74 103.5,74 76.9,50.4 z M 42.2,67.7 32.5,72.5 35.7,108 55.5,81 42.2,67.7 z"/>
-	</g>
-</svg>

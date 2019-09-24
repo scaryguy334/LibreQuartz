@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common_yellow.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<g class="teamcolor shining">
-		<path d="m 104,22.6 c -5.2,4.9 -11.5,6.9 -18.5,8.4 l 8.4,31.1 -16.8,-37.8 C 62.9,23.4 51.1,27.6 42.7,35.2 L 62.9,86.4 C 70.4,76.3 88.1,65.4 94,65.4 c 4.2,0 1.7,5 -3.4,10.2 C 98.2,64.1 86.4,69.6 82.2,74.2 87.2,85.6 115,72.1 120,62.9 z M 39.8,34.3 36,36 l 23.5,67.2 6.3,-2.5 z"/>
-		<path d="M 8,72 32,48 32,96 z"/>
-	</g>
-</svg>

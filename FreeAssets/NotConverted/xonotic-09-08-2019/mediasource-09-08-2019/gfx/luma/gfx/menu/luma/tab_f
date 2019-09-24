@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common_f.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="64">
-	<path class="button" d="M 27,6 9,59 247,59 229,6 z"/>
-	<g class="glowing">
-		<path class="frame" d="M 26,4 C 24.5,4 23.5,4.5 22.5,6.5 L 21,10.5 22,12 9.5,45 7,45.5 4,53 l 3,7 242,0 3,-7 -3,-7.5 -2.5,-0.5 -12.5,-33 1,-1.5 -1.5,-4 c -1,-2 -2,-2.5 -3.5,-2.5 z m 2,4 200,0 12,36 -4,14 -216,0 -4,-14 z"/>
-		<path class="detail" d="m 20,12 -10,3 -5,25.5 3,3 z m 216,0 12,31.5 3,-3 -5,-25.5 z"/>
-	</g>
-</svg>

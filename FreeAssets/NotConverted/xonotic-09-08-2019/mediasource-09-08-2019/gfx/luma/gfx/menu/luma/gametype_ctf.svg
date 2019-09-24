@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="gametype shining" d="m 97,16 c -6.2,5.8 -13.7,8.2 -22,10 l 10,37 -20,-45 c -17,-1 -31,4 -41,13 l 24,61 c 9,-12 30,-25 37,-25 5,0 2,6 -4,12.1 9,-13.6 -5,-7.1 -10,-1.6 6,13.5 39,-2.5 45,-13.5 z m -76.5,14 L 16,32 44,112 l 7.5,-3 z"/>
-</svg>

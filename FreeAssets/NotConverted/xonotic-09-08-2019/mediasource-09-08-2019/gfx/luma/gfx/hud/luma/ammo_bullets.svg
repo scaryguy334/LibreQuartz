@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="common.css" type="text/css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" version="1.1">
-	<path class="bullets shining" d="M 38.5,29 C 35,33 32,52 32,59 l 13,0 C 45,52 42,33 38.5,29 z m 26,0 C 61,33 58,52 58,59 l 13,0 C 71,52 68,33 64.5,29 z m 26,0 C 87,33 84,52 84,59 l 13,0 C 97,52 94,33 90.5,29 z M 31,62 l 0,34 15,0 0,-34 z m 26,0 0,34 15,0 0,-34 z m 26,0 0,34 15,0 0,-34 z m -52,37 0.5,3 14,0 0.5,-3 z m 26,0 0.5,3 14,0 0.5,-3 z m 26,0 0.5,3 14,0 0.5,-3 z"/>
-</svg>
