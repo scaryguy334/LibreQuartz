@@ -1,3 +1,0 @@
-# LibreQuartz
-# LibreQuartz
-# LibreQuartz
