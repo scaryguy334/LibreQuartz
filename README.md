@@ -143,10 +143,6 @@ _quake_ graphics, as to remain compatible with mods.  Otherwise, levels
 may end up looking like a nightmare in design.  They may be
 thematically different as long as it doesn’t clash.
 
-~~~_quake_ uses a fictional corporation abbreviated as “UAC:” this is
-trademarked by id Software and cannot be used in _LibreQuartz_.  Instead,
-use the initials “AGM” for _LibreQuartz_.~~~
-
 === Documentation
 
 _LibreQuartz_ always needs help with documentation, so please send your
