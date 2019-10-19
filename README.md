@@ -1,6 +1,6 @@
----
-title: LibreQuartz
----
+
+# LibreQuartz
+
 
 The *LibreQuartz* project aims to create a complete, free content first
 person shooter game, but *LibreQuartz* by itself is just the raw 
